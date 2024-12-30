@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-# Use Jekyll and the Tufte theme directly
 gem "jekyll", "~> 4.3.4"
-gem "jekyll-theme-tufte"
+
+gem "no-style-please"
 
 gem "github-pages", group: :jekyll_plugins
 
